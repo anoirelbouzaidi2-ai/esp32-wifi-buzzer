@@ -2,7 +2,7 @@
 
 Un ESP32 crée un petit serveur web sur le réseau local. Depuis un téléphone ou un PC, une page avec des boutons permet d'activer ou de couper deux buzzers.
 
-Projet réalisé en binôme : Bilal Azelmad et Anouar El Bouzaidi.
+Projet d'équipe réalisé dans le cadre académique.
 
 ## Matériel
 
